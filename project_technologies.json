@@ -1,16 +1,20 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "osc"
         ],
         "platforms": [
-            "insert platforms"
+            "arduino"
         ],
         "toolkits": [
-            "insert toolkits"
+            "processing",
+            "max"
         ]
     },
     "themes": [
-        "insert themes"
+        "Stories",
+        "Public Transit",
+        "Voyeurism",
+        "Commuting"
     ]
 }

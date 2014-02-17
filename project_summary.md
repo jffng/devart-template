@@ -1,17 +1,18 @@
 # Project Title
-Insert the name of your project
+Subway Stories
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- Jeff Ong, github: jffng
+- Alon Chitayat, github: animishmish
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+Living in New York City, many of us spend hours a day below ground. Each day millions of people commute via the subway — an apparently “interactive” experience if you stop to consider the potential collisions that could happen. But if you’ve spent significant time on subways, you begin to realize it’s often an isolating experience — one of the last frontiers where cell phone service and networks are still absent, leaving its inhabitants to their own conversations, music, and inner-thoughts. Like a horizontal elevator, passengers anxiously wait for their stop, acutely aware of their temporary neighbors. Through an interactive storytelling environment, “Subway Stories” invites users to reconsider the seemingly ordinary and daily experience of commuting. Our hope is to create an intimate experience between the user and the subway, but more importantly between passengers — bridging the gap between the isolating experience of public spaces with the power of stories.
+
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
 
-[Example Link](http://www.google.com "Example Link")
+[Subway Stories](http://www.subwaystories.net "Subway Stories Home")
 
 ## Example Code
 NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
@@ -23,11 +24,12 @@ function test() {
 ## Links to External Libraries
  NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
 
-[Example Link](http://www.google.com "Example Link")
+[CNMAT](http://archive.cnmat.berkeley.edu/OpenSoundControl/ "OSC / CNMAT")
+[Processing](http://processing.org/ "Processing")
+[P5.js](http://archive.cnmat.berkeley.edu/OpenSoundControl/ "Processing")
 
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
+![Cover Image](http://www.subwaystories.net/wp-content/uploads/2013/12/slidshow_template_people1.jpg "Cover Image")
 
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
