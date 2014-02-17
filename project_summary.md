@@ -25,7 +25,7 @@ function test() {
 
 [CNMAT](http://archive.cnmat.berkeley.edu/OpenSoundControl/ "OSC / CNMAT")
 [Processing](http://processing.org/ "Processing")
-[P5.js](http://archive.cnmat.berkeley.edu/OpenSoundControl/ "Processing")
+[P5.js](http://p5js.org/ "P5.js")
 
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
