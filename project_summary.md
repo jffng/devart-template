@@ -28,7 +28,6 @@ function test() {
 [P5.js](http://p5js.org/ "P5.js")
 
 ## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
+![Video](http://www.youtube.com/watch?v=sxP2EPP9d3g "Subway Stories Video")
 
 ![Cover Image](http://www.subwaystories.net/wp-content/uploads/2013/12/slidshow_template_people1.jpg "Cover Image")
-
