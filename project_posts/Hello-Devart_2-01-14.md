@@ -6,7 +6,7 @@ The project began as Alon found himself sketching other passengers on his daily 
 
 Uploading the sketches into Processing and using Arduino a controller, the project was presented as an “interactive subway simulator”.
 
-![Initial Prototype](http://www.youtube.com/watch?v=jdVaP0hTWSc "Subway Stories, initial prototype")
+http://www.youtube.com/watch?v=jdVaP0hTWSc
 
 It was at this point we saw potential for it as a storytelling platform. The response from our peers was one of fascination; each sketch and character appeared to have so much life. What was she thinking? What music was he listening to? These are the questions the audience kept asking of the project in its first form.
 

@@ -2,4 +2,4 @@ Alon and I are master's candidates at NYU's Interactive Telecommunications Progr
 
 After evolving the project from a subway simulator into a more explicit storytelling platform, here's what our friends and peers had to say:
 
-![User Testing](http://www.youtube.com/watch?v=6zSy1cDJE4o "User Testing")
+http://www.youtube.com/watch?v=6zSy1cDJE4o
