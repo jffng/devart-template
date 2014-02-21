@@ -28,6 +28,6 @@ function test() {
 [P5.js](http://p5js.org/ "P5.js")
 
 ## Images & Videos
-<iframe width="640" height="360" src="//www.youtube.com/embed/6zSy1cDJE4o?rel=0" frameborder="0" allowfullscreen></iframe>
+http://www.youtube.com/watch?v=6zSy1cDJE4o
 
 ![Cover Image](http://www.subwaystories.net/wp-content/uploads/2013/12/slidshow_template_people1.jpg "Cover Image")
