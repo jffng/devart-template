@@ -13,3 +13,9 @@ It was at this point we saw potential for it as a storytelling platform. The res
 Taking this feedback, audio stories were recorded in a stream-of-consciousness style — the author would spend about 30 seconds with an illustration, then speak his / her thoughts in the first person. The stories were then mapped to the illustrated passengers using Max / MSP, and the controller changed a user to explore the subway car by focusing in on specific characters.
 
 ![Hello DevArt](http://www.jffng.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-03-at-12.25.55-PM.png "Subway Stories, meet DevArt")
+
+Here is some of the press we've received from it so far:
+
+[Creator's Project](http://archive.cnmat.berkeley.edu/OpenSoundControl/ "Creator's Project")
+[PSFK](http://processing.org/ "PSFK")
+[Core77](http://www.core77.com/blog/transportation/two_art_projects_that_prove_theres_still_hope_in_the_workday_commute_26435.asp "Core77")

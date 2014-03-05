@@ -14,18 +14,15 @@ Living in New York City, many of us spend hours a day below ground; millions of 
 [Subway Stories](http://www.subwaystories.net "Subway Stories Home")
 
 ## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
 ```
 function test() {
   console.log("Printing a test");
 }
 ```
-## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
 
+## Links to External Libraries
 [CNMAT](http://archive.cnmat.berkeley.edu/OpenSoundControl/ "OSC / CNMAT")
 [Processing](http://processing.org/ "Processing")
-[P5.js](http://p5js.org/ "P5.js")
 
 ## Images & Videos
 http://www.youtube.com/watch?v=sxP2EPP9d3g

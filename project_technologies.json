@@ -1,14 +1,16 @@
 {
     "technologies": {
         "apis": [
-            "osc"
+            "osc",
+            "web audio"
         ],
         "platforms": [
             "arduino"
         ],
         "toolkits": [
             "processing",
-            "max"
+            "max",
+            "threejs"
         ]
     },
     "themes": [
