@@ -13,10 +13,60 @@ Living in New York City, many of us spend hours a day below ground; millions of 
 ## Link to Prototype
 [Subway Stories](http://www.subwaystories.net "Subway Stories Home")
 
-## Example Code
+## Example Code using THREE.js
 ```
-function test() {
-  console.log("Printing a test");
+function init() {
+	// camera 
+    camera = new THREE.PerspectiveCamera(45, window.innerWidth / window.innerHeight, 1, 10000); 
+    // camera.position.y = -250; 
+    camera.position.z = 1500; 
+
+    // scene 
+    scene = new THREE.Scene();
+
+    controls = new THREE.PointerLockControls( camera );
+    scene.add( controls.getObject() );
+
+    var img = new THREE.MeshBasicMaterial({ //CHANGED to MeshBasicMaterial
+        map:THREE.ImageUtils.loadTexture('img/subway_car.png')
+    });
+    img.map.needsUpdate = true; //ADDED
+    img.transparent = true;
+
+    // plane
+    var subwayMesh = new THREE.Mesh(new THREE.PlaneGeometry(2700, 397),img);
+    // plane.overdraw = true;
+    scene.add(subwayMesh);
+
+    for (var i = 1; i < 25; i++){
+        passengers(i);
+    }
+
+    var geometry = new THREE.PlaneGeometry(5000, 800);
+    var material = new THREE.MeshBasicMaterial( {color: 0x222222} );
+    var background = new THREE.Mesh( geometry, material );
+    scene.add(background);
+    background.position.z = -100;
+	background.position.y = 100;
+
+     // add subtle ambient lighting
+    var ambientLight = new THREE.AmbientLight(0x555555);
+    scene.add(ambientLight);
+
+    // add directional light source
+    var directionalLight = new THREE.DirectionalLight(0xffffff);
+    directionalLight.position.set(1, 1, 1).normalize();
+    scene.add(directionalLight);
+
+    // create wrapper object that contains three.js objects
+    var three = {
+        renderer: renderer,
+        camera: camera,
+        scene: scene,
+        subway_car: subwayMesh
+    };
+
+    window.addEventListener( 'resize', onWindowResize, false );
 }
 ```
 
