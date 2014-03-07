@@ -11,7 +11,7 @@ Living in New York City, many of us spend hours a day below ground; millions of 
 “Subway Stories” invites users to reconsider the ordinary experience of commuting. Our role as artists and technologists is to blend traditional media (sound, moving image) with new technology, pushing the boundaries of storytelling. Our hope is to create an intimate experience between the user and the subway, but more importantly between passengers — bridging the gap between the isolating experience of public spaces with the power of stories.
 
 ## Link to Prototype
-[Subway Stories](http://www.subwaystories.net "Subway Stories Home")
+[Subway Stories](http://www.jffng.com/subway-stories/ "Subway Stories Home")
 
 ## Example Code using THREE.js
 ```
