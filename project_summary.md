@@ -1,5 +1,4 @@
-# Project Title
-Subway Stories
+# Subway Stories
 
 ## Authors
 - Jeff Ong, [GitHub](http://www.github.com/jffng "GitHub")
