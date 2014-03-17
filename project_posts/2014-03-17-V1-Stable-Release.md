@@ -15,4 +15,4 @@ Tomorrow night -- Tuesday, 3-18 -- we'll be installing "Subway Stories" at [Mist
 
 ![alon and jeff](project_images/alon-jeff.jpg?raw=true "alon and jeff")
 
-The folks involved with hosting the event did a nice write-up / profile of Alon and I; it can be found [artist profile](http://www.useecs.com/nubert-says/2014/3/13/alon-chitayat-and-jeff-ongs-subway-stories "here").
+The folks involved with hosting the event did a nice write-up / profile of Alon and me; it can be found [here](http://www.useecs.com/nubert-says/2014/3/13/alon-chitayat-and-jeff-ongs-subway-stories "artist profile").
