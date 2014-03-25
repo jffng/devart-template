@@ -16,6 +16,7 @@ Taking this feedback, audio stories were recorded in a stream-of-consciousness s
 
 Here is some of the press we've received from it so far:
 
-[Creator's Project](http://archive.cnmat.berkeley.edu/OpenSoundControl/ "Creator's Project")
-[PSFK](http://processing.org/ "PSFK")
+[Creator's Project](http://thecreatorsproject.vice.com/blog/subway-stories-takes-you-on-an-interactive-ride-through-the-nyc-underground-sans-stressawfulness "Creator's Project")
+[PSFK](http://www.psfk.com/2014/02/subway-sketches.html "PSFK")
+[LoveMoney](http://www.lovemoneyclothes.com/blog/subway-stories-is-a-special-kind-of-commute "LoveMoney")
 [Core77](http://www.core77.com/blog/transportation/two_art_projects_that_prove_theres_still_hope_in_the_workday_commute_26435.asp "Core77")
