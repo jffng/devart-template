@@ -1,4 +1,4 @@
-http://www.youtube.com/watch?v=6zSy1cDJE4o
+http://www.youtube.com/watch?v=O0kFsgZIgZA
 
 "Subway Stories" was presented at ITP's Winter Show in 2013. It was a humbling and remarkable experience to watch how people responded to the installation. As we near completion of porting this project to the web for submission to DevArt, our hope is that the folks reading these posts understand that the process in creating this project was a humanizing one for us.
 
