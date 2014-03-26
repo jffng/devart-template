@@ -2,7 +2,7 @@ http://www.youtube.com/watch?v=O0kFsgZIgZA
 
 "Subway Stories" was presented at ITP's Winter Show in 2013. It was a humbling and remarkable experience to watch how people responded to the installation. As we near completion of porting this project to the web for submission to DevArt, our hope is that the folks reading these posts understand that the process in creating this project was a humanizing one for us.
 
-There is a real tendency with "creative coding" to abstract away many of the aesthetic qualities that make traditional forms of art relatable to a wider audience. Writing shaders, using hardware accelerated graphics in the browser, etc. are all amazing new technological realities for creative peple, but it's important to remember that interactive and digital art is still in its infancy in the broader sceme of artistic significance. 
+There is a real tendency with "creative coding" to abstract away many of the aesthetic qualities that make traditional forms of art relatable to a wider audience. Writing shaders, using hardware accelerated graphics in the browser, etc. are all amazing new technological realities for creative people, but it's important to remember that interactive and digital art is still in its infancy in the broader sceme of artistic significance. 
 
 We are at a crossroads; how we define and understand what constitutes quality interaction -- be it with other human beings or with digital experiences -- can and should be led by artists, not just engineers. Google understands this, but part of that understanding is celebrating and elevating work that gets at the core interactions between human beings.
 
