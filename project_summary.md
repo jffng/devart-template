@@ -70,6 +70,7 @@ function init() {
 ```
 
 ## Links to External Libraries
+[THREEjs](http://threejs.org/ "THREE.js")
 [CNMAT](http://archive.cnmat.berkeley.edu/OpenSoundControl/ "OSC / CNMAT")
 [Processing](http://processing.org/ "Processing")
 
