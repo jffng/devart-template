@@ -11,7 +11,8 @@
         "toolkits": [
             "processing",
             "max",
-            "javascript"
+            "javascript",
+            "jquery"
         ]
     },
     "themes": [
